@@ -12,7 +12,7 @@ https://www.getpostman.com/collections/e1f59c905aeca84c1ebc
 Este é um sistema de eventos e cidades com uma relação N-1 entre eles:
 
 
-![uml](https://github.com/rosana-moreira/-desafio-spring-security-02/image.png)
+![uml](https://github.com/rosana-moreira/desafio-spring-security-02/blob/master/image.png)
 
 
 Neste sistema, somente as rotas de leitura (GET) de eventos e cidades são públicas (não precisa de login). 
@@ -34,8 +34,3 @@ Caso tenha dúvidas nas regras de autorização do ResourceServerConfig, colocam
   * Todos demais endpoints devem requerer login de ADMIN
 
 
-
-
-
-
-Bootcamp spring, dev superior.
