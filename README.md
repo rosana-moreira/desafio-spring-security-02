@@ -1,5 +1,4 @@
 ## Desafio Spring Secutiry 02
-Implemente as funcionalidades necessárias para que os testes do projeto abaixo passem:
 
 Implemente as funcionalidades necessárias para que os testes do projeto abaixo passem:
 
